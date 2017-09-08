@@ -3,6 +3,7 @@
 int gcd(int a, int b);
 int main()
 {
+	//test
     int a = 252, b = 105;
     printf("GCD(%d, %d) = %d\n", a, b, gcd(a, b));
     a = 2260, b = 816;
